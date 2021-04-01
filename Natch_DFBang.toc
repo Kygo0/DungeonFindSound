@@ -1,0 +1,9 @@
+## Interface: 40000
+## Title: Dungeon Finder Bang
+## Notes: BANG! Your dungeon is ready!
+## Author: KygoBeast
+## Version: v1.0a
+## X-Category: Misc
+
+DungeonFinderSound.lua
+
